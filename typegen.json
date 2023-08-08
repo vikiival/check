@@ -1,0 +1,13 @@
+{
+  "outDir": "src/types/polkadot",
+  "specVersions": "https://polkadot.archive.subsquid.io/graphql",
+  "events": [
+    "Referenda.Submitted",
+    "Referenda.DecisionDepositPlaced"
+  ],
+  "calls": [
+    "ConvictionVoting.vote"
+  ],
+  "storage": [
+  ]
+}
